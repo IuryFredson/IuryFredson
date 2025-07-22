@@ -1,30 +1,13 @@
-# 👋 Olá!  
+Português 🇧🇷
 
-Me chamo **Iury**, sou estudante de **Tecnologia da Informação** na **Universidade Federal do Rio Grande do Norte (UFRN)**.  
+Estudante de **Tecnologia da Informação** na UFRN. Tenho uma base sólida em linguagens que vão do baixo ao alto nível, como **C, Rust, Java e Python**, além de experiência em desenvolvimento web com **JavaScript e PHP**.
 
-💻 **Apaixonado por programação**, tenho experiência com **C**, **Rust**, **Java**, **Python**, **JavaScript**, **PHP**, **HTML** e **CSS**.  
+Meu interesse principal está na interseção entre código e matemática, buscando aplicar conceitos teóricos para construir soluções eficientes e robustas. Estou sempre aberto a novos desafios e colaborações.
 
-📚 Além de ser entusiasta em tecnologia, tenho um profundo interesse em **matemática** e adoro explorar conceitos que unem essas duas áreas.  
-🔍 Estou sempre em busca de aprender algo novo, seja para resolver problemas complexos ou para criar soluções inovadoras.  
+---
 
-🌟 Sou movido por desafios e pela oportunidade de crescer tanto profissionalmente quanto pessoalmente.  
-**Pronome:** ele/dele.  
+English 🇬🇧/🇺🇸
 
-Vamos nos conectar e criar algo incrível juntos? 🚀  
+Information Technology student at UFRN. I have a solid foundation in languages ranging from low to high level, such as C, Rust, Java, and Python, along with web development experience in JavaScript and PHP.
 
----  
-
-# 👋 Hi there!  
-
-My name is **Iury**, and I’m an **Information Technology** student at the **Federal University of Rio Grande do Norte (UFRN)**.  
-
-💻 A **programming enthusiast**, I have experience with **C**, **Rust**, **Java**, **Python**, **JavaScript**, **PHP**, **HTML**, and **CSS**.  
-
-📚 Beyond coding, I have a deep passion for **mathematics** and love exploring the synergy between these two fields.  
-🔍 I’m always eager to learn something new, whether it’s to tackle complex problems or to craft innovative solutions.  
-
-🌟 I thrive on challenges and embrace every opportunity to grow both professionally and personally.  
-**Pronouns:** he/him.  
-
-Let’s connect and build something amazing together! 🚀  
-
+My main interest lies at the intersection of code and mathematics, where I seek to apply theoretical concepts to build efficient and robust solutions. I am always open to new challenges and collaborations.
