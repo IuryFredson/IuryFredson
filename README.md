@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Estudante de Tecnologia da Informação na UFRN</strong><br>
-  Desenvolvimento backend, web e software com interesse em matemática, sistemas e produtos úteis.
+  Desenvolvimento backend e web com Java, JavaScript, TypeScript e Python.
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ### Sobre mim
 
-Sou estudante de **Tecnologia da Informação na UFRN** e venho construindo projetos com foco em backend, web e fundamentos de computação. Tenho experiência com **Java**, **TypeScript**, **JavaScript**, **Python**, **C**, **C++** e **Rust**, passando por APIs, sistemas acadêmicos, ferramentas para desenvolvedores e projetos de baixo nível.
+Sou estudante de **Tecnologia da Informação na UFRN** e venho construindo projetos com foco em backend, web e fundamentos de computação. Minha stack atual de trabalho é **Java**, **JavaScript**, **TypeScript** e **Python**, passando por APIs, sistemas acadêmicos, ferramentas para desenvolvedores e aplicações web.
 
 Gosto de trabalhar na interseção entre **código e matemática**, transformando conceitos teóricos em soluções eficientes, bem estruturadas e fáceis de evoluir.
 
@@ -28,9 +28,6 @@ Gosto de trabalhar na interseção entre **código e matemática**, transformand
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=111827">
   <img alt="Python" src="https://img.shields.io/badge/Python-1d4ed8?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-7c2d12?style=for-the-badge&logo=rust&logoColor=white">
-  <img alt="C" src="https://img.shields.io/badge/C-374151?style=for-the-badge&logo=c&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
 ### Projetos em destaque
@@ -42,7 +39,7 @@ Gosto de trabalhar na interseção entre **código e matemática**, transformand
 | [chat-reativo-webflux](https://github.com/IuryFredson/chat-reativo-webflux) | Projeto de chat usando programação reativa com WebFlux. | Java |
 | [realestate-lead-intelligence](https://github.com/IuryFredson/realestate-lead-intelligence) | Inteligência para leads do mercado imobiliário. | Python |
 | [todolist-api](https://github.com/IuryFredson/todolist-api) | API de tarefas com autenticação JWT. | Java |
-| [RustLexer](https://github.com/IuryFredson/RustLexer) | Experimento com análise léxica em Rust. | Rust |
+| [site-psicopedbarbara](https://github.com/IuryFredson/site-psicopedbarbara) | Site web com foco em presença digital e experiência de navegação. | JavaScript |
 
 ### GitHub
 
@@ -58,7 +55,7 @@ Gosto de trabalhar na interseção entre **código e matemática**, transformand
 
 ### About me
 
-I am an **Information Technology student at UFRN** building projects across backend development, web applications and computer science fundamentals. I work with **Java**, **TypeScript**, **JavaScript**, **Python**, **C**, **C++** and **Rust**, ranging from APIs and academic systems to developer tools and low-level experiments.
+I am an **Information Technology student at UFRN** building projects across backend development, web applications and computer science fundamentals. My current working stack is **Java**, **JavaScript**, **TypeScript** and **Python**, ranging from APIs and academic systems to developer tools and web applications.
 
 My main interest is the intersection between **code and mathematics**, applying theoretical concepts to build efficient, robust and maintainable solutions.
 
