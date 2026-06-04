@@ -10,7 +10,6 @@
     <img alt="Projetos públicos" src="https://img.shields.io/badge/Projetos-p%C3%BAblicos-2563eb?style=flat-square&logo=github&logoColor=white&labelColor=111827">
   </a>
   <img alt="Natal, RN" src="https://img.shields.io/badge/Natal-RN-0f766e?style=flat-square&logo=googlemaps&logoColor=white&labelColor=111827">
-  <img alt="UFRN" src="https://img.shields.io/badge/UFRN-Universidade-7c3aed?style=flat-square&labelColor=111827">
   <img alt="Tecnologia da Informação" src="https://img.shields.io/badge/Tecnologia%20da%20Informa%C3%A7%C3%A3o-UFRN-b91c1c?style=flat-square&labelColor=111827">
 </p>
 
