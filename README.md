@@ -7,10 +7,11 @@
 
 <p align="center">
   <a href="https://github.com/IuryFredson?tab=repositories">
-    <img alt="Repositórios" src="https://img.shields.io/badge/projetos-publicos-0f172a?style=for-the-badge&logo=github">
+    <img alt="Projetos públicos" src="https://img.shields.io/badge/Projetos-p%C3%BAblicos-2563eb?style=flat-square&logo=github&logoColor=white&labelColor=111827">
   </a>
-  <img alt="Localização" src="https://img.shields.io/badge/Natal-RN-0f766e?style=for-the-badge">
-  <img alt="UFRN" src="https://img.shields.io/badge/UFRN-Tecnologia_da_Informacao-b91c1c?style=for-the-badge">
+  <img alt="Natal, RN" src="https://img.shields.io/badge/Natal-RN-0f766e?style=flat-square&logo=googlemaps&logoColor=white&labelColor=111827">
+  <img alt="UFRN" src="https://img.shields.io/badge/UFRN-Universidade-7c3aed?style=flat-square&labelColor=111827">
+  <img alt="Tecnologia da Informação" src="https://img.shields.io/badge/Tecnologia%20da%20Informa%C3%A7%C3%A3o-UFRN-b91c1c?style=flat-square&labelColor=111827">
 </p>
 
 ---
@@ -24,7 +25,7 @@ Gosto de trabalhar na interseção entre **código e matemática**, transformand
 ### Tecnologias
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=111827">
   <img alt="Python" src="https://img.shields.io/badge/Python-1d4ed8?style=for-the-badge&logo=python&logoColor=white">
