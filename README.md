@@ -36,8 +36,8 @@ Meu interesse está na interseção entre **sistemas, código e matemática**: A
 ### GitHub
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IuryFredson&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0c0c0c&title_color=bef264&text_color=F4F1EA&icon_color=FF4A16">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryFredson&layout=compact&hide_border=true&bg_color=0c0c0c&title_color=bef264&text_color=F4F1EA">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IuryFredson&show_icons=true&include_all_commits=true&count_private=true&bg_color=0c0c0c&title_color=bef264&text_color=F4F1EA&icon_color=FF4A16&border_color=FF4A16">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryFredson&layout=compact&bg_color=0c0c0c&title_color=bef264&text_color=F4F1EA&border_color=FF4A16">
 </p>
 
 ---
@@ -47,10 +47,12 @@ Meu interesse está na interseção entre **sistemas, código e matemática**: A
 
 ### About me
 
-I am **Iury Fredson**, a web developer and **Information Technology student at UFRN**. I use this GitHub as a public lab for real projects, backend studies, applied AI experiments and computer science fundamentals.
+I am **Iury Fredson**, a web developer and **Information Technology student at UFRN**.
 
-My work moves through **systems, code and mathematics**: APIs, architecture, data, automations, developer tools and web applications. Some repositories are products, some are studies, and some are a Digital Garden written as code.
+I use this GitHub as a public lab for real projects, backend studies, applied AI experiments, architecture notes and computer science fundamentals. Some repositories are products, some are technical investigations, and some are part of a Digital Garden written as code.
 
-I use small and real projects to understand how systems behave, fail, scale and evolve.
+My work moves through **systems, code and mathematics**: APIs, data, automations, developer tools, web applications and the small decisions that make software easier to understand.
+
+I use small and real projects to study how systems behave, fail, scale and evolve.
 
 </details>
