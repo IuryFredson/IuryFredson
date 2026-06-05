@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile-lab.svg" alt="Iury Fredson Public Lab" width="100%">
+</p>
+
 <h1 align="center">Iury Fredson</h1>
 
 <p align="center">
@@ -12,6 +16,14 @@
 Sou **Iury Fredson**, estudante de **Tecnologia da Informação na UFRN** e desenvolvedor web. Uso este GitHub como laboratório público para projetos reais, estudos de backend, experimentos com IA aplicada e fundamentos de computação.
 
 Meu interesse está na interseção entre **sistemas, código e matemática**: APIs, arquitetura, dados, automações, ferramentas para desenvolvedores e aplicações web. Parte do que aparece aqui é produto; parte é estudo; parte é Digital Garden em forma de código.
+
+```txt
+PUBLIC LAB / README INDEX
+focus   : backend, IA aplicada, arquitetura, fundamentos
+stack   : Java, TypeScript, JavaScript, Python
+método  : publicar, quebrar, medir, reescrever, documentar
+estado  : em construção permanente
+```
 
 ### Tecnologias
 
@@ -36,8 +48,8 @@ Meu interesse está na interseção entre **sistemas, código e matemática**: A
 ### GitHub
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IuryFredson&show_icons=true&include_all_commits=true&count_private=true&bg_color=0c0c0c&title_color=bef264&text_color=F4F1EA&icon_color=FF4A16&border_color=FF4A16">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryFredson&layout=compact&bg_color=0c0c0c&title_color=bef264&text_color=F4F1EA&border_color=FF4A16">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=IuryFredson&show_icons=true&include_all_commits=true&count_private=true&bg_color=0c0c0c&title_color=bef264&text_color=F4F1EA&icon_color=FF4A16&border_color=FF4A16&border_radius=0&custom_title=public%20lab%20/%20telemetry">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryFredson&layout=compact&bg_color=0c0c0c&title_color=bef264&text_color=F4F1EA&border_color=FF4A16&border_radius=0&custom_title=stack%20surface">
 </p>
 
 ---

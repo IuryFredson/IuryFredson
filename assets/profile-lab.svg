@@ -1,0 +1,27 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Iury Fredson Public Lab</title>
+  <desc id="desc">Brutalist technical banner for a GitHub profile public lab.</desc>
+  <rect width="1200" height="360" fill="#0c0c0c"/>
+  <path d="M0 80H1200M0 160H1200M0 240H1200M0 320H1200M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360" stroke="#F4F1EA" stroke-opacity="0.08" stroke-width="1"/>
+  <rect x="44" y="42" width="1112" height="276" stroke="#F4F1EA" stroke-width="2"/>
+  <rect x="44" y="42" width="188" height="34" fill="#bef264"/>
+  <text x="60" y="65" fill="#0c0c0c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">PUBLIC LAB</text>
+  <rect x="968" y="42" width="188" height="34" fill="#FF4A16"/>
+  <text x="985" y="65" fill="#0c0c0c" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">NATAL / UFRN</text>
+  <text x="64" y="142" fill="#F4F1EA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="58" font-weight="800" letter-spacing="-1">IURY FREDSON</text>
+  <text x="68" y="188" fill="#bef264" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" font-weight="700">WEB DEVELOPER // BACKEND // APPLIED AI</text>
+  <text x="68" y="235" fill="#F4F1EA" fill-opacity="0.86" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">GitHub as a public lab for real products, architecture notes, systems and fundamentals.</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700">
+    <rect x="68" y="270" width="118" height="28" fill="#FF4A16"/>
+    <text x="84" y="289" fill="#0c0c0c">JAVA</text>
+    <rect x="198" y="270" width="150" height="28" fill="#67e8f9"/>
+    <text x="214" y="289" fill="#0c0c0c">TYPESCRIPT</text>
+    <rect x="360" y="270" width="150" height="28" fill="#fcd34d"/>
+    <text x="376" y="289" fill="#0c0c0c">JAVASCRIPT</text>
+    <rect x="522" y="270" width="128" height="28" fill="#bef264"/>
+    <text x="538" y="289" fill="#0c0c0c">PYTHON</text>
+  </g>
+  <circle cx="1088" cy="258" r="42" stroke="#67e8f9" stroke-width="3"/>
+  <path d="M1056 258H1120M1088 226V290" stroke="#67e8f9" stroke-width="3"/>
+  <rect x="1018" y="250" width="140" height="16" fill="#b91c1c"/>
+</svg>
