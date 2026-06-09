@@ -20,7 +20,7 @@ Meu interesse está na interseção entre **sistemas, código e matemática**: A
 ```txt
 PUBLIC LAB / README INDEX
 focus   : backend, IA aplicada, arquitetura, fundamentos
-stack   : Java, TypeScript, JavaScript, Python
+stack   : Java, TypeScript, JavaScript, Python, C#
 método  : publicar, quebrar, medir, reescrever, documentar
 estado  : em construção permanente
 ```
@@ -32,6 +32,7 @@ estado  : em construção permanente
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0c0c0c?style=for-the-badge&logo=typescript&logoColor=67e8f9&labelColor=0c0c0c">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0c0c0c?style=for-the-badge&logo=javascript&logoColor=fcd34d&labelColor=0c0c0c">
   <img alt="Python" src="https://img.shields.io/badge/Python-0c0c0c?style=for-the-badge&logo=python&logoColor=bef264&labelColor=0c0c0c">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-0c0c0c?style=for-the-badge&logo=dotnet&logoColor=b91c1c&labelColor=0c0c0c">
 </p>
 
 ### Projetos em destaque

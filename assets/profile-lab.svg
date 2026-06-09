@@ -20,6 +20,8 @@
     <text x="376" y="289" fill="#0c0c0c">JAVASCRIPT</text>
     <rect x="522" y="270" width="128" height="28" fill="#bef264"/>
     <text x="538" y="289" fill="#0c0c0c">PYTHON</text>
+    <rect x="662" y="270" width="82" height="28" fill="#b91c1c"/>
+    <text x="678" y="289" fill="#F4F1EA">C#</text>
   </g>
   <circle cx="1088" cy="258" r="42" stroke="#67e8f9" stroke-width="3"/>
   <path d="M1056 258H1120M1088 226V290" stroke="#67e8f9" stroke-width="3"/>
